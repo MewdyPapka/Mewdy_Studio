@@ -1,0 +1,112 @@
+body {
+  margin: 0;
+  background-color: #111111; 
+  color: white;
+  font-family: Arial, sans-serif;
+}
+header {
+  border-top: 2px solid #4caf50;  
+  border-bottom: 2px solid #4caf50; 
+  padding: 20px;
+  text-align: center;
+  color: #35c23a;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+header img {
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  left: 25px;
+  top: 20px;
+}
+footer{
+  background-color: #161616;
+  height: 35px;
+  color: #35c23a;
+  border-top: 1px solid #4caf50;
+}
+footer img{
+  height: 15px;
+  width: 15px;
+  border-radius: 30%;
+  margin: 5px;
+}
+.container {
+  display: flex;
+  padding: 20px;
+}
+.menytext {
+  width: 300px;
+  height: 400px;
+  background-color: #1a1a1a; 
+  border-radius: 10px;
+  text-align: center;
+}
+.menytext:hover{
+  background-color: #262626;
+}
+.menytext2 {
+  width: 300px;
+  height: 400px;
+  background-color: #1a1a1a; 
+  border-radius: 10px;
+  text-align: center;
+  margin: 50px;
+}
+.menytext2:hover{
+  background-color: #262626; 
+}
+.menytext3 {
+  width: 300px;
+  height: 400px;
+  background-color: #1a1a1a; 
+  border-radius: 10px;
+  text-align: center;
+}
+.menytext3:hover{
+  background-color: #262626; 
+}
+
+.menytext img{
+height: 100px;
+width: 100px;
+
+}
+
+.menuava{
+  height: 150px;
+  width: 120px;
+  background-color: #212121;
+  position: fixed;
+  right: 10px;
+  border-radius: 10%;
+  text-align: center;
+}
+.menuava h4{
+margin: 10px;
+}
+
+main h1{
+  text-align: center;
+  color: #35c23a;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  border-top: 2px solid #4caf50;  
+  border-bottom: 2px solid #4caf50; 
+  height: 50px;
+}
+.Happy{
+  background-color: #1a1a1a;
+  width: 1000px;
+  height: 350px;
+  text-align: center;
+  border-radius: 20px;
+  position: relative;
+  left: 10px;
+  bottom: 10px;
+}
+
+.Happy h3 {
+  color: red;
+}
+
+
