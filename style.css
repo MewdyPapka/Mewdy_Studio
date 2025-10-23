@@ -20,7 +20,6 @@ header img {
   left: 550px;
   top: 20px;
 }
-}
 .home{
  height: 30px;
  width: 100px;
@@ -41,6 +40,7 @@ header img {
 }
 .inf:hover{
   background-color: #262626;
+}
   .about{
  height: 30px;
  width: 100px;
@@ -127,7 +127,7 @@ width: 280px;
   position: fixed;
   right: 10px;
   border-radius: 10%;
-  text-align: 
+  text-align: center;
 }
 .menuava h4{
 margin: 10px;
