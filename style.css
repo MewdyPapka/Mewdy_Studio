@@ -53,6 +53,10 @@ footer img{
   text-align: center;
   margin: 50px;
 }
+.menutext2 img{
+height: 200px;
+width: 280px;
+}
 .menytext2:hover{
   background-color: #262626; 
 }
@@ -82,7 +86,6 @@ footer img{
 .menytext img{
 height: 200px;
 width: 280px;
-
 }
 
 .menuava{
