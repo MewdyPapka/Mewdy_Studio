@@ -92,10 +92,14 @@ width: 280px;
   position: fixed;
   right: 10px;
   border-radius: 10%;
-  text-align: center;
+  text-align: 
 }
 .menuava h4{
 margin: 10px;
+}
+.menuava a{
+
+  
 }
 
 main h1{
