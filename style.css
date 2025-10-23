@@ -20,10 +20,18 @@ header img {
   left: 550px;
   top: 20px;
 }
-.navig{
-  border-bottom: 2px solid #4caf50; 
 }
-.inf{
+.home{
+ height: 30px;
+ width: 100px;
+ border: 2px solid #35c23a;
+ border-radius: 10px;
+ background-color: #1a1a1a; 
+ color:#35c23a;
+}
+.home:hover{
+  background-color: #262626;
+  .inf{
  height: 30px;
  width: 100px;
  border: 2px solid #35c23a;
@@ -32,6 +40,16 @@ header img {
  color:#35c23a;
 }
 .inf:hover{
+  background-color: #262626;
+  .about{
+ height: 30px;
+ width: 100px;
+ border: 2px solid #35c23a;
+ border-radius: 10px;
+ background-color: #1a1a1a; 
+ color:#35c23a;
+}
+.about:hover{
   background-color: #262626;
 footer{
   background-color: #161616;
