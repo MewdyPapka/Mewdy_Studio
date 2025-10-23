@@ -30,6 +30,8 @@ header img {
  background-color: #1a1a1a; 
  color:#35c23a;
 }
+.inf:hover{
+  background-color: #262626;
 footer{
   background-color: #161616;
   height: 35px;
