@@ -53,10 +53,6 @@ footer img{
   text-align: center;
   margin: 50px;
 }
-.menytext2 img{
-height: 200px;
-width: 280px;
-}
 .menytext2:hover{
   background-color: #262626; 
 }
@@ -69,6 +65,10 @@ width: 280px;
 }
 .menytext3:hover{
   background-color: #262626; 
+}
+.menytext3 img{
+height: 200px;
+width: 280px;
 }
 
 .menytext4 {
