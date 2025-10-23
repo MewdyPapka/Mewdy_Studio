@@ -21,7 +21,10 @@ header img {
   top: 20px;
 }
 .inf{
-border: 2px solid #35c23a;
+ height: 15px;
+ width: 30px;
+ border: 2px solid #35c23a;
+ background-color: #1a1a1a; 
   
 }
 footer{
