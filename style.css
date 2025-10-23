@@ -20,12 +20,15 @@ header img {
   left: 550px;
   top: 20px;
 }
+.navig{
+  border-bottom: 2px solid #4caf50; 
+}
 .inf{
- height: 50px;
+ height: 30px;
  width: 100px;
  border: 2px solid #35c23a;
  background-color: #1a1a1a; 
-  
+ color:#35c23a;
 }
 footer{
   background-color: #161616;
