@@ -27,6 +27,7 @@ header img {
  height: 30px;
  width: 100px;
  border: 2px solid #35c23a;
+ border-radius: 10px;
  background-color: #1a1a1a; 
  color:#35c23a;
 }
