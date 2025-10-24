@@ -4,6 +4,10 @@ body {
   color: white;
   font-family: Arial, sans-serif;
 }
+
+body a{
+  color:#35c23a;
+}
 header {
   border-top: 2px solid #4caf50;  
   border-bottom: 2px solid #4caf50; 
@@ -131,6 +135,8 @@ width: 280px;
   right: 10px;
   border-radius: 10%;
   text-align: center;
+}
+
 }
 .menuava h4{
 margin: 10px;
