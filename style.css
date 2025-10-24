@@ -132,7 +132,7 @@ width: 280px;
 
 .menuava{
   height: 170px;
-  width: 120px;
+  width: 105px;
   background-color: #212121;
   position: fixed;
   right: 10px;
@@ -164,6 +164,7 @@ main h1{
   border-radius: 20px;
   position: relative;
   left: 10px;
+  right:10px;
   bottom: 10px;
 }
 
