@@ -72,6 +72,64 @@ footer img{
   width: 15px;
   border-radius: 30%;
   margin: 5px;
+}
+.container {
+  display: flex;
+  padding: 20px;
+}
+.menytext {
+  width: 300px;
+  height: 400px;
+  background-color: #1a1a1a; 
+  border-radius: 10px;
+  text-align: center;
+}
+.menytext:hover{
+  
+  background-color: #262626;
+}
+.menytext2 {
+  width: 300px;
+  height: 400px;
+  background-color: #1a1a1a; 
+  border-radius: 10px;
+  text-align: center;
+  margin: 50px;
+}
+.menytext2:hover{
+  background-color: #262626; 
+}
+.menytext3 {
+  width: 300px;
+  height: 400px;
+  background-color: #1a1a1a; 
+  border-radius: 10px;
+  text-align: center;
+}
+.menytext3:hover{
+  background-color: #262626; 
+}
+.menytext3 img{
+height: 100px;
+width: 250px;
+}
+
+.menytext4 {
+  width: 300px;
+  height: 400px;
+  background-color: #1a1a1a; 
+  border-radius: 10px;
+  text-align: center;
+  margin: 50px;
+}
+.menytext4:hover{
+  background-color: #262626; 
+}
+
+.menytext img{
+height: 200px;
+width: 280px;
+}
 
 .menuava{
   height: 170px;
@@ -87,6 +145,10 @@ footer img{
 .menuava h4{
 margin: 10px;
 }
+.menuava a{
+
+  
+}
 
 main h1{
   text-align: center;
@@ -96,4 +158,13 @@ main h1{
   border-bottom: 2px solid #4caf50; 
   height: 50px;
 }
-
+.Happy{
+  background-color: #1a1a1a;
+  height: 450px;
+  text-align: center;
+  border-radius: 20px;
+  position: relative;
+  left: 10px;
+  right:10px;
+  bottom: 10px;
+}
