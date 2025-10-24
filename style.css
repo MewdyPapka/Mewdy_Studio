@@ -159,7 +159,7 @@ main h1{
 }
 .Happy{
   background-color: #1a1a1a;
-  height: 350px;
+  height: 450px;
   text-align: center;
   border-radius: 20px;
   position: relative;
@@ -167,9 +167,3 @@ main h1{
   right:10px;
   bottom: 10px;
 }
-
-.Happy h3 {
-  color: red;
-}
-
-
