@@ -140,31 +140,6 @@ width: 280px;
   border-radius: 10%;
   text-align: center;
 }
-
-}
 .menuava h4{
 margin: 10px;
-}
-.menuava a{
-
-  
-}
-
-main h1{
-  text-align: center;
-  color: #35c23a;
-  font-family: Comic Sans MS, Comic Sans, cursive;
-  border-top: 2px solid #4caf50;  
-  border-bottom: 2px solid #4caf50; 
-  height: 50px;
-}
-.Happy{
-  background-color: #1a1a1a;
-  height: 450px;
-  text-align: center;
-  border-radius: 20px;
-  position: relative;
-  left: 10px;
-  right:10px;
-  bottom: 10px;
 }
