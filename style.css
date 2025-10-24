@@ -31,6 +31,7 @@ header img {
  border-radius: 10px;
  background-color: #1a1a1a; 
  color:#35c23a;
+ left: 3px;
 }
 .home:hover{
   background-color: #262626;
@@ -42,6 +43,7 @@ header img {
  border-radius: 10px;
  background-color: #1a1a1a; 
  color:#35c23a;
+ left: 3px;
 }
 .inf:hover{
   background-color: #262626;
@@ -53,6 +55,7 @@ header img {
  border-radius: 10px;
  background-color: #1a1a1a; 
  color:#35c23a;
+ left: 3px;
 }
 .about:hover{
   background-color: #262626;
@@ -156,7 +159,6 @@ main h1{
 }
 .Happy{
   background-color: #1a1a1a;
-  width: 1000px;
   height: 350px;
   text-align: center;
   border-radius: 20px;
