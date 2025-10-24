@@ -25,6 +25,9 @@ header img {
   left: 550px;
   top: 20px;
 }
+main{
+  height:500px;
+}
 .home{
  height: 30px;
  width: 100px;
@@ -143,3 +146,5 @@ width: 280px;
 .menuava h4{
 margin: 10px;
 }
+
+main{
