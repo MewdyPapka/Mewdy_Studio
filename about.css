@@ -102,6 +102,10 @@ footer img{
 .menytext2:hover{
   background-color: #262626; 
 }
+.menytext2 img{
+height: 100px;
+width: 250px;
+}
 .menytext3 {
   width: 300px;
   height: 400px;
@@ -127,6 +131,10 @@ width: 250px;
 }
 .menytext4:hover{
   background-color: #262626; 
+}
+.menytext4 img{
+height: 100px;
+width: 250px;
 }
 
 .menytext img{
