@@ -86,10 +86,15 @@ footer img{
   background-color: #1a1a1a; 
   border-radius: 10px;
   text-align: center;
+    margin: 50px;
 }
 .menytext:hover{
   
   background-color: #262626;
+}
+.menytext img{
+height: 100px;
+width: 250px;
 }
 .menytext2 {
   width: 300px;
@@ -112,6 +117,7 @@ width: 250px;
   background-color: #1a1a1a; 
   border-radius: 10px;
   text-align: center;
+    margin: 50px;
 }
 .menytext3:hover{
   background-color: #262626; 
